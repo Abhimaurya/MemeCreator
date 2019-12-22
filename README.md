@@ -1,16 +1,49 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## About Project
+
+It is basically Meme Creator website.
+
+1-Enter your query in the first input box .
+
+2-Load the image via Load image button.
+
+3-Enter the caption ,as you want to write on loaded image by default it will come at CENTER .
+
+4-You can change the position of caption either TOP or BOTTOM too.
+
+5- We have save meme section wher we just save our meme by clcik on Save Meme Button.
+
+6-We hav "Zomm on hover" on image  to Zoom the image in save meme section .
+
+7-To clear  all saved meme we have clear save meme button at bottm of page .
+
+
+## Hosted website 
+
+To see the project on browser kindly hit the blow url on Browser.
+
+### https://abhimaurya.github.io/MemeCreator/
+
+## Installation
+
+To Run the code on your Local 
+
+1-Clone the project into particular folder by command git clone "link of project".
+
+2-Open into VS code or preferable Editor,
+
+3-Open the terminal and hit two command.
+
+### `npm install` 
+ then
+### `npm run start`
+
+4-It will Automatically Redirect to browser with Url http://localhost:3000 .
+
 ## Available Scripts
 
 In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
 
 ### `npm test`
 
@@ -37,32 +70,3 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
