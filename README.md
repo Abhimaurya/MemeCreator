@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Important
+Allow browser to hit the http API request call directly by hitting url on browser https://www.splashbase.co/api/v1/images/search?query=water so that on load of image no error can come.
+
 ## About Project
 
 It is basically Meme Creator website.
